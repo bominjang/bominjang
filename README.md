@@ -1,5 +1,5 @@
 ### Hi, I'm Bomin Jang 👋
-- 🌱 I’m currently learning **Security of Autonomous Driving**
+- 🌱 I’m currently learning **Security of Autonomous Car**
 - 📫 How to reach me: **qhals9443@ewhain.net**
 
 
