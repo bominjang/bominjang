@@ -1,5 +1,5 @@
 ### Hi, I'm Bomin Jang 👋
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Java Spring Boot web project**
 - 📫 How to reach me: **qhals9443@ewhain.net**
 
 
